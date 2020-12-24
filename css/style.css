@@ -179,14 +179,20 @@ height:100%;
 width: 100%;		
 z-index: 1;
 }
-.grt{
-	opacity: 70%;
-background-image: url(../img/Grt.jpg);
-grid-area: grt;
-background-repeat: no-repeat;
-background-size: 100% 100%;
+.grt img{
+	position: absolute;
+	z-index: -1;
+width: 100%;
 height: 700px;
 }
+	.grt{
+		display: block;
+		opacity: 70%;	
+	grid-area: grt;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	height: 700px;
+	}
 .per{
 
 	height: 800px;
