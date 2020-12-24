@@ -180,6 +180,7 @@ width: 100%;
 z-index: 1;
 }
 .grt img{
+	float:right;
 	position: absolute;
 	z-index: -1;
 width: 100%;
