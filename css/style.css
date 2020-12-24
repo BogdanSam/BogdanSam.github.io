@@ -81,7 +81,6 @@ align-items:center;
 opacity: 99%;
 	height: 90px;
 	display: grid;
-	
 	grid-template-columns: repeat(6,1fr);
 
 grid-area: button;
@@ -181,11 +180,12 @@ width: 100%;
 z-index: 1;
 }
 .grt{
+	background-position: right;
 	opacity: 70%;
 background-image: url(../img/Grt.jpg);
 grid-area: grt;
 background-repeat: no-repeat;
-background-size: 100% 100%;
+background-size: 90% 100%;
 height: 700px;
 }
 .per{
