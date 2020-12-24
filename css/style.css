@@ -184,10 +184,9 @@ z-index: 1;
 background-image: url(../img/Grt.jpg);
 grid-area: grt;
 background-repeat: no-repeat;
-
 display: block;
-max-width: 100%;
-height: auto;
+overflow: hidden;
+height: 0;
 }
 .per{
 
