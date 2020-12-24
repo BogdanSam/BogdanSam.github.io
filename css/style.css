@@ -457,21 +457,25 @@ text-align: center;
 			font-family: monospace;
 }
 footer{
+	opacity: 90%;
 	display: flex;
 	justify-content: flex-start;
 	margin-top: auto;
 	margin-bottom: auto;
-	opacity: 50%;
-	height: 50px;
-	background-color: #474646;
-	grid-area: footer;
 
+	height: 150px;
+	background-color: #5b5858;
+	grid-area: footer;
+background: linear-gradient(35deg, grey, black);
 }
 .txf{
+
+	background: ;
 	color: white;
-	font-size: 23px;
+	font-size: 19px;
 	padding-left: 20px;
 	margin-top: auto;
 	margin-bottom: auto;
 	font-family: monospace;
+
 }
