@@ -23,7 +23,7 @@ body{
 " imat  imat  imat  imat  imat  imat"
 "footer footer footer footer footer footer"
 ;
-grid-template-rows: 700px 200px 0px 1000px 150px 500px 600px 800px 150px 250px 320px 0px 450px 150px; 
+grid-template-rows: 700px 200px 0px 900px 150px 500px 600px 800px 150px 250px 320px 0px 450px 150px; 
 
 
 }
