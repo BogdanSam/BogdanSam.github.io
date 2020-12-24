@@ -32,9 +32,6 @@ grid-template-rows: 700px 300px 0px 900px 150px 500px 600px 800px 150px 250px 32
     background: linear-gradient(to bottom, rgba(0,0,0.0,0.93) 50px, rgba(0,0,0,0) 100%);
     z-index: 5;
 }
-
-
-}
 .b5{
 	text-align: center;
 }
@@ -89,6 +86,7 @@ align-items:center;
 opacity: 99%;
 	height: 90px;
 	display: grid;
+	
 	grid-template-columns: repeat(6,1fr);
 
 grid-area: button;
@@ -187,7 +185,7 @@ height:100%;
 width: 100%;		
 z-index: 1;
 }
-..grt{
+.grt{
 background-position: right;
 	opacity: 70%;
 background-image: url(../img/Grt.jpg);
