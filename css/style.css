@@ -180,8 +180,7 @@ width: 100%;
 z-index: 1;
 }
 .car{
-	background-size: 100% 100%;
-float:right;
+float:center;
 }
 .grt img{
 	position: absolute;
