@@ -179,8 +179,10 @@ height:100%;
 width: 100%;		
 z-index: 1;
 }
+.car{
+float:right;
+}
 .grt img{
-	right:0;
 	position: absolute;
 	z-index: -1;
 width: 100%;
