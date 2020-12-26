@@ -1,3 +1,38 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@BogdanSam 
+Learn Git and GitHub without any code!
+Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
+
+
+BogdanSam
+/
+BogdanSam.github.io
+1
+00
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+BogdanSam.github.io/css/style.css
+@BogdanSam
+BogdanSam Update style.css
+Latest commit ca6b9a1 27 minutes ago
+ History
+ 1 contributor
+503 lines (460 sloc)  8.71 KB
+  
 
 *	{
 	padding:0;
@@ -177,25 +212,6 @@ background-color: black;
 height:100%;
 width: 100%;		
 z-index: 1;
-}
-@media screen and (max-width:10000px){
-
-	
-.grt img{
-	position: absolute;
-	z-index: -1;
-width: 100%;
-height: 700px;
-}
-		.grt{
-			background-position: right;
-			display: block;
-			opacity: 70%;	
-		grid-area: grt;
-		background-repeat: no-repeat;
-		background-size: 80% 100%;
-		height: 700px;
-		}
 }
 @media screen and (max-width:10000px){
 
@@ -520,3 +536,15 @@ background: linear-gradient(35deg, grey, black);
 	font-family: monospace;
 
 }
+© 2020 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
